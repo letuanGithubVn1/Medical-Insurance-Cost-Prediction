@@ -15,7 +15,7 @@ It contains 1,338 entries with 7 columns:
 - charges: Insurance cost (this is what we’re trying to predict)  
 
 **Data Access:** The dataset is loaded directly in the notebook or you can download the following link:
-`https://raw.githubusercontent.com/letuanGithubVn1/Medical-Insurance-Cost-Prediction/refs/heads/main/insurance.csv`
+[https://raw.githubusercontent.com/letuanGithubVn1/Medical-Insurance-Cost-Prediction/refs/heads/main/insurance.csv](https://raw.githubusercontent.com/letuanGithubVn1/Medical-Insurance-Cost-Prediction/refs/heads/main/insurance.csv)
 
 ## 🎯 Main Objectives**
 To explore the dataset and analyze the key factors influencing health insurance costs.
