@@ -7,12 +7,12 @@ This project develops a linear regression model to predict individual health ins
 **📝 What's in the Dataset?**
 It contains 1,338 entries with 7 columns:  
 - age: Age of the insured person  
-_ sex: Gender  
-_ bmi: Body Mass Index  
-_ children: Number of children  
-_ smoker: Whether the person smokes  
-_ region: Where they live  
-_ charges: Insurance cost (this is what we’re trying to predict)  
+- sex: Gender  
+- bmi: Body Mass Index  
+- children: Number of children  
+- smoker: Whether the person smokes  
+- region: Where they live  
+- charges: Insurance cost (this is what we’re trying to predict)  
 
 **Data Access:** The dataset is loaded directly in the notebook or you can download the following link:
 `https://raw.githubusercontent.com/letuanGithubVn1/Medical-Insurance-Cost-Prediction/refs/heads/main/insurance.csv`
